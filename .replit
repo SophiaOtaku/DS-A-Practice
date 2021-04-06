@@ -1,2 +1,2 @@
 language = "java8"
-run = "java Code/MainClass.java"
+run = "java 'Java Code'/src/MainClass.java"
