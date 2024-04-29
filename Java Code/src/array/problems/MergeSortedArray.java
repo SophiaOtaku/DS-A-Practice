@@ -47,7 +47,7 @@ package array.problems;
 public class MergeSortedArray {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
 
-        int temp[] = new int[m+n];
+        int[] temp = new int[m+n];
         int arrPtr1 = 0;
         int arrPtr2 = 0;
 
